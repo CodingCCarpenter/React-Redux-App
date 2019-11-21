@@ -1,5 +1,10 @@
 import React from 'react';
-import logo from './logo.svg';
+// import ReactDom from 'react-dom';
+import { createStore, applyMiddleware } from 'redux';
+import { Provider } from 'react-redux';
+import thunk from redux-thunk;
+
+
 import './App.css';
 
 function App() {
