@@ -1,6 +1,9 @@
 ## Dependencies Added:
     Redux
     React-Redux
+    Styled-Components
+    Babel V1.17.3- (recomended for Styled-Components)
+
     
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
