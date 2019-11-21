@@ -3,6 +3,7 @@
     React-Redux
     Styled-Components
     Babel V1.17.3- (recomended for Styled-Components)
+    Thunk
 
     
 
